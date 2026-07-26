@@ -1,0 +1,30 @@
+{
+  "repository": "Trigger111/antifraud_case_nepop",
+  "release_tag": "data-v1",
+  "files": [
+    {
+      "name": "activity_log.parquet",
+      "bytes": 966043120,
+      "rows": 96303584,
+      "sha256": "edddfcaf4e596624df76ea8f4edf625a3782bcf215f91c7024f0497c25952f62"
+    },
+    {
+      "name": "credits.parquet",
+      "bytes": 282001283,
+      "rows": 35658710,
+      "sha256": "e71594f6c17f0b6f35e71a42cc13899fea14a9ced1bf4ae55e76beb56f0ba2d2"
+    },
+    {
+      "name": "payments.parquet",
+      "bytes": 17075786,
+      "rows": 2301720,
+      "sha256": "d3fcb41ba91ebfad737851b8e4e84652f34bfc1c54658025796c0f81e12efe31"
+    },
+    {
+      "name": "registrations.parquet",
+      "bytes": 210545418,
+      "rows": 8049602,
+      "sha256": "90e07215cfb777101322ff940005babde0c0e01454d3082ea7424cb65a356648"
+    }
+  ]
+}

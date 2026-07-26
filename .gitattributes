@@ -1,0 +1,4 @@
+*.pbix binary
+*.pptx binary
+*.ipynb linguist-language=Jupyter Notebook
+*.csv text eol=lf

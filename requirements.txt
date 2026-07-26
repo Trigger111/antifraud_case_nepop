@@ -1,0 +1,7 @@
+duckdb==1.5.4
+pandas==3.0.2
+numpy==2.4.4
+matplotlib==3.11.0
+seaborn==0.13.2
+pycountry==26.2.16
+jupyterlab==4.6.1
